@@ -3,6 +3,8 @@
 #Realizando un CRUD con este patron
 
 /*CREAR BD MYSQL
+
+
   int Id--> incrementable-Primary
   String Nombre
   String Correo
